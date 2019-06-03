@@ -1,4 +1,4 @@
-package com.example.plusminus;
+package org.github.henryquan.hosa;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
