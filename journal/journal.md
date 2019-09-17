@@ -1,4 +1,6 @@
 # Journal
+## 17 Sep 2019
+1. Time to restart this project
 ## 14 July 2019
 1. Mainly completed the design of all the page
 2. Discussed about editing and removing entry
